@@ -48,7 +48,6 @@ int main() {
 
         // Input player information
         cout << "Enter Player 1's First Name : ";
-        cin.ignore();
         getline(cin, player1Name);
 
         int aa; //input validation for player1 name
